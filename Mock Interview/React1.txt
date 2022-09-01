@@ -1,0 +1,66 @@
+
+# How are you doing? How was your day going so far?
+
+# Could you tell me about yourself?
+
+# Tell me about what kind of language / project have been work on?
+
+# What's your expertise now
+
+# What technology have you been use there?
+
+# Do you use any framework?
+    redux
+    mui
+
+# Is project build on top of class component or function component?
+
+# how do you explain different between class component and function component, if you start a new project, which one do you choose?
+    function component - hooks, easy, no life cycle
+     
+# JSX
+
+# how react js work?
+
+# virtual DOM
+
+# how do you explain virtual DOM to a technical person
+
+# any other library / framework use virtual DOM
+    jquery, old time 
+    react
+
+# batch update
+
+# what kind of global state management you are familiar with
+    redux
+
+# how redux work
+action(useDispatch) => reducer => view(useSelector)
+
+# is any tools you use help with these gloabl state?
+    Redux DevTools
+    React Developer Tools
+
+# test react 
+    Jest(unit test)
+    @testing-library/react
+    Cypress(e2e test)
+
+# experience deploy react 
+
+# docker
+    mysql
+
+# react best practice
+    redux - big product
+    file structure
+    write component
+    write test - force you write small component and sparate component with service, beacuse it was easy to test
+    small function
+    eslint
+
+# advise for who want learn react
+    mosh video
+    react document 
+

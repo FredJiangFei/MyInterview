@@ -1,0 +1,39 @@
+https://www.interviewbit.com/react-interview-questions/
+
+# What is React?
+    a js front-end library
+    building complex and reusable user interface(UI) components
+    JSX
+    virtual DOM
+
+# JSX
+directly using HTML inside JavaScript
+
+# virtual DOM
+
+# What are the advantages of using React?
+    Use of Virtual DOM to improve efficiency
+    reusable components
+    easy to learn
+
+# What are the limitations of React?
+
+
+# What is useState() in React?
+    const [count, setCounter] = useState(0);
+
+# What are keys in React?
+    const ids = [1,2,3,4,5];
+    const listElements = ids.map((id)=>{
+        return(
+        <li key={id.toString()}>
+        {id}
+        </li>
+        )
+    })
+    
+    unique identity for each element.
+
+# What are the differences between functional and class components?
+    ● Declaration
+    ● Handling props

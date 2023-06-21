@@ -60,5 +60,7 @@ threads: provide a method for accomplishing the tasks
 * The Task class from the Task Parallel Library offers the best of both worlds. Like the ThreadPool, a task does not create its own OS thread. Instead, tasks are executed by a TaskScheduler; the default scheduler simply runs on the ThreadPool. Unlike the ThreadPool, Task also allows you to find out when it finishes, and (via the generic Task) to return a result.
 
 
+
+
 # 异步
 1. 提高并发

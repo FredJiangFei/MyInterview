@@ -1,7 +1,30 @@
 # What is Entity Framework Core?
-EF Core can serve as an object-relational mapper (O/RM), which:
+an ORM (Object-Relational Mapper) Framework for data access, which:
 1. Enables .NET developers to work with a database using .NET objects.
 2. Eliminates the need for most of the data-access code that typically needs to be written.
+
+# Why do we need to use an ORM?
+help operate Database
+
+
+# EF Core Development Approaches:
+1. Code-First Approach
+2. Database-First Approach
+
+# EF Core does not have the following features:
+1. Spatial Type
+2. Complex/value types
+3. EDMX Model format
+4. Lazy loading
+5. Stored Procedures
+
+# Reasons to use EF Core:
+1. Simple to get started
+2. It supports NoSQL Databases along with relational databases
+3. It fits nicely in ASP.NET MVC Core setup
+4. Integrates well with LINQ
+5. Possible to use on Linux and Mac since it is based on .NET Core along with Windows.
+
 
 # Entity states in EF Core
 * Added: The entity is marked as added.
